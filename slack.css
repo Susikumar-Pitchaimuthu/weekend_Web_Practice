@@ -1,0 +1,417 @@
+.header-background {
+  background-color: rgb(45, 8, 45);
+  color: white;
+}
+
+.header-container {
+  padding-left: 100px;
+  padding-bottom: 90px;
+}
+
+.logo-than {
+  display: flex;
+}
+
+.nav-bar {
+  display: flex;
+  padding-top: 30px;
+}
+
+.logo-than {
+  display: flex;
+  align-items: center;
+}
+
+.logo-slack {
+  height: 40px;
+  width: 40px;
+}
+
+.logo-and-link-div {
+  display: flex;
+  gap: 4rem;
+}
+
+.nav-link a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-link {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+}
+
+.nav-button-corner {
+  width: 500px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10px;
+  padding-left: 175px;
+}
+
+.corner-button {
+  padding: 8px 12px;
+  background-color: rgb(61, 7, 61);
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+  border: white 1px solid;
+}
+
+.corner-button-second {
+  padding: 8px 12px;
+  color: rgb(61, 7, 61);
+  background-color: white;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.head-content-and-video {
+  display: flex;
+  margin-top: 40px;
+}
+
+.header-head {
+  font-size: 63px;
+}
+
+.header-para {
+  font-size: 26px;
+  width: 600px;
+}
+
+.head-content-div {
+  flex: 1;
+}
+
+.head-video-div {
+  display: flex;
+  flex: 1;
+}
+
+.email-google {
+  display: flex;
+  gap: 1rem;
+}
+
+.email-sign-button {
+  padding: 20px 16px;
+  border-radius: 5px;
+  color: rgb(61, 7, 61);
+  font-weight: bold;
+  background-color: white;
+}
+
+.sign-in {
+  color: white;
+  font-weight: 500px;
+}
+
+.button-google {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background-color: rgb(100, 100, 179);
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 4px 16px;
+}
+
+.section-one {
+  background-color: blanchedalmond;
+}
+
+.section-one-container-div {
+  padding: 30px 90px;
+}
+
+.section-one-logo-div {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+.section-one-head {
+  display: flex;
+  justify-content: center;
+}
+
+.section-one-logo {
+  height: 9%;
+  width: 9%;
+}
+
+.section-one-first-video-content-container {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 50px;
+}
+
+.section-one-video {
+  display: flex;
+}
+
+.section-one-content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-left: 200px;
+}
+
+.video-para-one {
+  width: 75%;
+}
+
+.section-medium-video-content-container {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 50px;
+}
+
+.section-medium-content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding-right: 200px;
+}
+
+.section-second-container-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.meet-button {
+  padding: 11px 22px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(61, 7, 61);
+  font-weight: bold;
+}
+
+.talk-sales-button {
+  padding: 11px 22px;
+  border-radius: 5px;
+  color: rgb(61, 7, 61);
+  background-color: white;
+  border: 2px solid rgb(61, 7, 61);
+  font-weight: bold;
+}
+
+.team-head {
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 4px;
+}
+
+.section-second-percentage {
+  display: flex;
+  justify-content: space-between;
+  padding: 72px 180px;
+}
+
+.percentage {
+  color: rgb(61, 7, 61);
+  font-weight: bold;
+  font-size: 48px;
+  margin-bottom: 0px;
+}
+
+.percentage-div {
+  width: 200px;
+}
+
+.section-last-video-content-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section-last-video {
+  width: 100%;
+}
+
+.last-video-radius {
+  border-top-right-radius: 190px;
+  border-bottom-right-radius: 200px;
+}
+
+.last-video-para {
+  font-size: 24px;
+}
+
+.last-mark {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.last-see-more {
+  color: rgb(12, 116, 151);
+}
+.section-last-content {
+  width: 100%;
+  padding-left: 50px;
+}
+
+.see-more-arrow {
+  display: flex;
+}
+
+.section-last-below-content {
+  display: flex;
+  justify-content: center;
+}
+
+.section-above-footer {
+  background-color: bisque;
+}
+
+.four-image-head {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.section-above-footer-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px 60px;
+}
+
+.first {
+  background-color: rgb(51, 14, 85);
+  color: white;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.first-see-all {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
+.second {
+  background-color: white;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.second-read-more {
+  display: flex;
+  justify-content: space-between;
+  color: rgb(4, 76, 100);
+  font-weight: bold;
+}
+
+.footer-welcome {
+  background: rgb(72, 13, 72);
+  border-bottom-left-radius: 300px;
+  border-bottom-right-radius: 300px;
+  height: 300px;
+}
+
+.try-welcome-button {
+  display: flex;
+  justify-content: center;
+}
+
+.welcome {
+  color: white;
+  font-size: 34px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.last-try-button {
+  padding: 13px 23px;
+  background-color: white;
+  color: rgb(72, 13, 72);
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.last-talk-button {
+  padding: 13px 23px;
+  color: white;
+  background-color: rgb(72, 13, 72);
+  font-weight: bold;
+  border-radius: 5px;
+  border: white 1px solid;
+  margin-left: 5px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: gray 1px solid;
+  padding-bottom: 50px;
+  margin: 40px 50px;
+}
+
+.footer-first {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-first a {
+  text-decoration: none;
+  color: black;
+  padding-top: 30px;
+}
+
+.footer-footer {
+  padding: 40px 0px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 40px;
+  padding-bottom: 10px;
+}
+
+.footer-link {
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-link a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.footer-social {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.last-span {
+  color: rgb(4, 76, 100);
+}
+
+.social {
+  height: 20px;
+  width: 16px;
+}
